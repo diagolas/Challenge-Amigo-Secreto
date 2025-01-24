@@ -1,4 +1,4 @@
-<h1> Amigo Secreto </h1> 
+<h1> Challenge Amigo Secreto </h1>
 
 Esta aplicación permite gestionar y realizar un sorteo para elegir un "amigo secreto" de forma aleatoria. 
 Los usuarios pueden ingresar nombres de amigos, verlos en una lista y realizar el sorteo con un clic. El proyecto está desarrollado con HTML, CSS y JavaScript.

@@ -22,16 +22,11 @@ Para ejecutar esta aplicación necesitas:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/diagolas/Challenge-Amigo-Secreto.git
    ```
 
-2. Accede al directorio del proyecto:
-
-   ```bash
-   cd amigo-secreto
-   ```
-
-3. Abre el archivo `index.html` en tu navegador web.
+   
+2. Abre el archivo `index.html` en tu navegador web.
 
 <h2>Uso</h2> 
 
